@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vitor Enes]]></title>
+        <description><![CDATA[Vitor Enes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 17:13:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World!]]></title>
+            <description><![CDATA[<article><h1>Hello World!</h1><p>First post on my brand-new, "The Grid" website!</p></article>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">69ed0485-43f5-485b-a4b8-bb018a6ce7b7</guid>
+            <pubDate>Mon, 28 Dec 2015 17:13:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
