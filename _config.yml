@@ -1,0 +1,28 @@
+name: Vitor Enes
+favicon: null
+layout_spectrum: 0.12220918945968151
+typography_spectrum: 0.1811706442385912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5096815186552703
+  lightness: 0.32483258261345327
+  saturation: 0.7442805003374815
+  rhythmicContrast: 0.2816185005940497
+purpose: []
