@@ -1,7 +1,7 @@
 name: Vitor Enes
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.31519
+layout_spectrum: 0.25331
+typography_spectrum: 0.31372
 title: General musings of the nerd kind.
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5096815186552703
+  brandStrength: 0.1875
   lightness: 0.32483258261345327
   saturation: 0.7442805003374815
-  rhythmicContrast: 0.2816185005940497
+  rhythmicContrast: 0.5
 purpose: []
