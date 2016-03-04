@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'I will try to explain, as well as I understand it, the subject of Money: where it comes from, who owns it and why it is, truly, the Ultimate Evil.'
-datePublished: '2016-03-04T20:29:22.626Z'
-dateModified: '2016-03-04T20:28:53.960Z'
+datePublished: '2016-03-04T20:32:17.932Z'
+dateModified: '2016-03-04T20:31:49.895Z'
 title: "We will talk about anything. Let's start with Money."
 author: []
 authors: []
