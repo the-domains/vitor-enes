@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[General musings of the nerd kind.]]></title>
         <description><![CDATA[General musings of the nerd kind.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vitor-enes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 20:39:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 20:40:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vitor-enes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We will talk about anything. Let's start with Money.]]></title>
             <description><![CDATA[<article><h1>We will talk about anything. Let's start with Money.</h1><p>Have you ever asked yourself, or others, "What is money"?How does it "work"?How can a piece of paper have any "real value"?And most important:</p></article>]]></description>
-            <link>undefinedwe-will-talk-about-anything-lets-start-with-money/index.html</link>
+            <link>https://thegrid.ai/vitor-enes/we-will-talk-about-anything-lets-start-with-money/index.html</link>
             <guid isPermaLink="false">a88ad4d8-b92f-4600-8541-a3ed10fa7fe3</guid>
-            <pubDate>Fri, 04 Mar 2016 20:29:22 GMT</pubDate>
+            <pubDate>Fri, 04 Mar 2016 20:32:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
